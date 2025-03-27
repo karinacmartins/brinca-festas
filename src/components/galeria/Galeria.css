@@ -1,0 +1,28 @@
+
+  .card {
+    overflow: hidden;
+    border: none;
+  }
+  
+  .card img {
+    width: 100%; 
+    height: auto; 
+  }
+
+  .gallery-img {
+    width: 100% !important; 
+    height: 300px !important; 
+    object-fit: cover !important; 
+    max-height: 400px; 
+  }
+
+    
+  
+  
+  
+  
+  .gallery-img:hover {
+    transform: scale(1.05);
+    transition: transform 0.3s ease-in-out;
+  }
+    

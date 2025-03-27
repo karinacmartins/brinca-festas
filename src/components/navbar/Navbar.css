@@ -1,0 +1,67 @@
+/* NavbarComponent.css */
+
+
+.navbar-custom {
+  background-color: none !important;
+}
+
+.navbar-custom .navbar-nav .nav-link {
+  color: #181818;
+  font-weight: 500;
+  transition: color 0.3s;
+  text-shadow: 4px 4px 6px rgb(255, 255, 255);
+  /* Aumentando o tamanho e a intensidade da sombra */
+  -webkit-text-stroke: 0.5px #ffffff;
+  /* Borda azul em torno das letras */
+  text-stroke: 1px #ffffff;
+  /* Para compatibilidade futura com mais navegadores */
+}
+
+
+
+.navbar-custom .navbar-nav .nav-link:hover {
+  color: #4ea9ff;
+}
+
+.promo {
+  background-color: #ff4081;
+  /* Cor chamativa para destaque */
+  color: white;
+  text-align: center;
+  font-size: 12px;
+  /* Fonte menor */
+  padding: 2px 0;
+  /* Reduz espaço */
+  height: 20px;
+  /* Linha bem fina */
+  width: 100%;
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: 1050;
+  /* Acima da navbar */
+}
+
+
+/* Estilo do botão de "Voltar ao Topo" */
+.back-to-top {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  color: #0083fd6e;
+  background-color: #ffffff25;
+  border: none;
+  padding: 10px;
+  border-radius: 50%;
+  font-size: 24px;
+  cursor: pointer;
+  z-index: 1000;
+}
+
+.back-to-top i {
+  font-size: 24px;
+}
+
+.back-to-top:hover {
+  color: #4ea9ff
+}

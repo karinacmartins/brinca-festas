@@ -1,70 +1,78 @@
-# Getting Started with Create React App
+<p align="center">
+  <img src="./public/logo.png" width="100" />
+</p>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Brinca Festa
 
-## Available Scripts
+Bem-vindo ao **Brinca Festa**, um template desenvolvido para empresas de animação e organização de festas infantis que desejam apresentar seus serviços de forma divertida e envolvente. O site foi criado com **React**, **Bootstrap** e **CSS**, proporcionando uma experiência moderna, intuitiva e responsiva para os clientes.
 
-In the project directory, you can run:
+<p align="center">
+  <img src="./public/image.png" width="500" />
+</p>
 
-### `npm start`
+## 🎯 Objetivo
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+O principal objetivo deste projeto é fornecer um template adaptável para empresas de animação e organização de festas, permitindo que apresentem seus serviços de maneira visualmente atraente e prática. O site conta com seções como galeria de fotos, perguntas frequentes, um modal com localização, integração com redes sociais e carrossel de imagens na home.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+O **Brinca Festa** é um site desenvolvido para divulgar os serviços de festas infantis e proporcionar uma navegação interativa e agradável. O projeto utiliza tecnologias modernas para garantir um design responsivo e acessível em diversos dispositivos.
 
-### `npm test`
+### 🔹 Estrutura do Site:
+- **Navbar**: Menu de navegação fixo para facilitar o acesso às seções.
+- **Home**: Apresentação inicial com carrossel de imagens para destaque de festas.
+- **Galeria**: Exibição de fotos das festas organizadas.
+- **Perguntas Frequentes**: Respostas para as dúvidas mais comuns dos clientes.
+- **Modal com Localização**: Localização da empresa em um modal interativo.
+- **Redes Sociais**: Links para redes sociais da empresa.
+- **Contato**: Formulário de contato com envio via **Email.js**.
+- **Botão de Rolagem para o Topo**: Facilita a navegação, permitindo que o usuário volte rapidamente ao topo da página.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## 🛠️ Tecnologias Utilizadas
 
-### `npm run build`
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![React](https://img.shields.io/badge/react-%23282C34.svg?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Email.js](https://img.shields.io/badge/email.js-%2318A0FB.svg?style=for-the-badge&logo=mailchimp&logoColor=white)
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+- **React**: Biblioteca JavaScript para interfaces dinâmicas e reativas.
+- **CSS**: Estilização e personalização do layout.
+- **Bootstrap**: Framework CSS para design responsivo.
+- **JavaScript**: Interatividade e manipulação de dados na interface.
+- **HTML5**: Estruturação do conteúdo da página.
+- **Email.js**: Envio de mensagens no formulário de contato sem necessidade de backend.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## ⚙️ Funcionalidades
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+- **Galeria de Fotos**: Exibição organizada das festas realizadas, com fotos dos eventos.
+- **Perguntas Frequentes**: Respostas para as dúvidas mais comuns, melhorando a experiência do cliente.
+- **Modal com Localização**: Modal interativo com a localização da empresa.
+- **Carrossel de Imagens na Home**: Destaque de imagens das festas na página inicial.
+- **Redes Sociais**: Integração com redes sociais, permitindo que os clientes sigam e interajam com a empresa.
+- **Formulário de Contato**: Formulário funcional com envio via **Email.js**.
+- **Botão de Rolagem para o Topo**: Facilita a navegação.
+- **Design Responsivo**: Otimizado para diferentes dispositivos.
 
-### `npm run eject`
+## 🤝 Contribuições
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+Contribuições são bem-vindas! Para contribuir:
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+- **Abra uma Issue**: Relate um bug ou sugira melhorias.
+- **Crie um Pull Request**: Faça alterações e envie para revisão.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+## 📧 Contato
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+Para dúvidas ou feedback, entre em contato:
 
-## Learn More
+- **E-mail**: [nina.kastro@icloud.com](mailto:nina.kastro@icloud.com)
+- **LinkedIn**: [LinkedIn](https://www.linkedin.com/in/karinacmartins/)
+- **GitHub**: [GitHub](https://github.com/karinacmartins)
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+## Observações
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+Este projeto é um **template para empresas de animação e organização de festas infantis**, podendo ser facilmente adaptado para diferentes necessidades. O objetivo é oferecer uma solução prática e moderna para a apresentação de serviços e comunicação com clientes.
 
-### Code Splitting
+<br>
+<br>
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+<div align="right">Made with 💜 by <a href="https://github.com/karinacmartins">KM</a>.</div>
